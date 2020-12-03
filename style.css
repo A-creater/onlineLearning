@@ -72,6 +72,7 @@
     height: 1.3rem;
     background: linear-gradient(90.08deg, #FE6201 0.05%, #ED4B7C 99.92%);
     border-radius: 2.4rem;
+    margin-right: .8rem;
 }
 .header__login{
     
@@ -158,3 +159,85 @@
 .banner__link:first-of-type{
     grid-column-start: 6;
 }
+
+.disciplina{
+    display: grid;
+    height: 333.72px;
+    margin-top: 107px;
+}
+    
+.disciplina__block{
+    
+    
+}
+
+.legends{
+    
+    font-weight: bold;
+    font-size: 4.2rem;
+    line-height: 4.9rem;
+    color: #2B283A;
+}
+
+.disciplina__text{
+   
+    font-size: 18px;
+    line-height: 21px;
+    color: #797979;
+}
+
+.disciplina__card1{
+    position: absolute;
+
+    display: grid;
+    grid-column: 5;
+    width: 37rem;
+    height: 29.4rem;
+    left: 53.5rem;
+    bottom: -58rem;
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(img/card1.jpg);
+    border-radius: 4px;
+    padding-top: 7.7rem;
+    padding-right: 6.2rem;
+    padding-left: 6.2rem;
+    padding-bottom: 9rem;
+    margin: 0;
+   
+    box-sizing: border-box;
+}
+
+.disciplina__card2{
+    position: absolute;
+    width: 37rem;
+    height: 29.4rem;
+    left: 93.5rem;
+    bottom: -58rem;
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(img/card2.jpg);
+    border-radius: 4px;
+    padding-top: 7.7rem;
+    padding-right: 6.2rem;
+    padding-left: 6.2rem;
+    padding-bottom: 9rem;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.card__text1{
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 33px;
+    text-align: center;
+    color: #FFFFFF;
+    margin: 0;
+    margin-bottom: 3.1rem;
+}
+.card__text2{
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    color: #F2F2F2;
+    margin: 0;
+    }
+
+    
