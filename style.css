@@ -115,8 +115,8 @@
 .main-block__text{
     font-style: normal;
     font-weight: normal;
-    font-size: 18px;
-    line-height: 21px;
+    font-size: 1.8rem;
+    line-height: 2.1rem;
     color: #6B6B6B;
     margin-bottom: 4.4rem;
 
@@ -161,9 +161,9 @@
 }
 
 .disciplina{
-    display: grid;
-    height: 333.72px;
-    margin-top: 107px;
+
+    height: 33.372rem;
+    margin-top: 10.7rem;
 }
     
 .disciplina__block{
@@ -181,8 +181,8 @@
 
 .disciplina__text{
    
-    font-size: 18px;
-    line-height: 21px;
+    font-size: 1.8rem;
+    line-height: 2.1rem;
     color: #797979;
 }
 
@@ -196,7 +196,7 @@
     left: 53.5rem;
     bottom: -58rem;
     background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(img/card1.jpg);
-    border-radius: 4px;
+    border-radius: .4rem;
     padding-top: 7.7rem;
     padding-right: 6.2rem;
     padding-left: 6.2rem;
@@ -213,7 +213,7 @@
     left: 93.5rem;
     bottom: -58rem;
     background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(img/card2.jpg);
-    border-radius: 4px;
+    border-radius: .4rem;
     padding-top: 7.7rem;
     padding-right: 6.2rem;
     padding-left: 6.2rem;
@@ -224,8 +224,8 @@
 
 .card__text1{
     font-weight: bold;
-    font-size: 28px;
-    line-height: 33px;
+    font-size: 2.8rem;
+    line-height: 3.3rem;
     text-align: center;
     color: #FFFFFF;
     margin: 0;
@@ -233,8 +233,8 @@
 }
 .card__text2{
     font-weight: bold;
-    font-size: 18px;
-    line-height: 21px;
+    font-size: 1.8rem;
+    line-height: 2.1rem;
     text-align: center;
     color: #F2F2F2;
     margin: 0;
