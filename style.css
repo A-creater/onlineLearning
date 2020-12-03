@@ -238,6 +238,22 @@
     text-align: center;
     color: #F2F2F2;
     margin: 0;
-    }
+}
 
+.disciplina__card-button{
+    display: grid;
+    grid-column: 6/8;
+    z-index: 1;
+    position: relative;
+    bottom: 0rem;
+    left: 6%;
+}
+.disciplina__card-button1{
+    display: grid;
+    grid-column: 10/12;
+    z-index: 1;
+    position: relative;
+    bottom: 3.5rem;
+    left: 4%;
+}
     
